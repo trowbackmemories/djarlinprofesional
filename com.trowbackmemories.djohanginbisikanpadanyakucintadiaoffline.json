@@ -1,0 +1,110 @@
+{
+"Ads": [
+{
+
+// 0 artinya tidak di redirect
+// 1 artinya di redirect
+"STATUS_APP" : "0",
+"LINK_REDIRECT" : "https://play.google.com/store/apps/details?id=com.package.name",
+
+// online atau offline
+"MODE_mp3_online_offline" : "online",
+
+
+"MODE_NO_ADS" : true,
+"ADS_on_START" : true,
+"ads_on_exit_dialog" : true,
+
+"Json_popup_Wait" : "Data Ready to GO . . .",
+"Mode_No_Ads_true" : "Proversion Activated",
+
+// mode iklan list
+// PENGATURAN IKLAN
+// admob1 = backup startapp
+// admob2 = backup unity backup startapp
+// fan
+// unity = backup startapp
+
+"MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_UNITY" : true,
+"PENGATURAN_IKLAN_banner" : "admob1",
+"PENGATURAN_IKLAN_inter" : "admob1",
+"INTER_COUNT" : 15,
+
+"ADMOB_INTER" : "ca-app-pub-3940256099942544/1033173712",
+"ADMOB_BANNER" : "ca-app-pub-3940256099942544/6300978111",
+"ADMOB_OPENADS" : "ca-app-pub-3940256099942544/3419835294",
+
+"FAN_INTER" : "YOUR_PLACEMENT_ID",
+"FAN_BANNER" : "YOUR_PLACEMENT_ID",
+
+"UNITY_BANNER" : "banner",
+"UNITY_INTERSTITIAL" : "interstitial",
+"UNITY_GAME_ID" : "isi",
+
+"STARAPPID" : "12345",
+"enable_strap" : true,
+"enable_strap_SplahScreen" : false,
+
+
+// Bantu Rating 5 bintang agar kami dapat terus memberikan informasi informasi terbaru
+// help give us a 5 star rating, so we keep the spirit of providing the latest updates
+// jika shre button true maka more button berubah fungsi menjadi share - more url hilang menjadi share
+"Exit_Popup_Dialog" : "Bantu Rating 5 bintang agar kami dapat terus memberikan informasi informasi terbaru",
+"Rate_Button" : "Rating Sekarang",
+"Later_Button" : "nanti",
+"enable_Share_button" : true,
+"Share_TXT" : "Aplikasi yang aku udah download ini berfaedah banget, cobain download juga.. klik link aja ya",
+"More_Button" : "Bagikan Aplikasi ini",
+"Url_More_Apps" : "https://play.google.com/store/apps/details?id=com.package.name"
+
+}
+]
+,
+ {
+ "Mp3": [
+
+  {    "name_mp3": "music9.mp3",    "link_mp3": "music9.mp3"  },
+  {    "name_mp3": "music8.mp3",    "link_mp3": "music8.mp3"  },
+  {    "name_mp3": "music7.mp3",    "link_mp3": "music7.mp3"  },
+  {    "name_mp3": "music6.mp3",    "link_mp3": "music6.mp3"  },
+  {    "name_mp3": "music5.mp3",    "link_mp3": "music5.mp3"  },
+  {    "name_mp3": "music4.mp3",    "link_mp3": "music4.mp3"  },
+  {    "name_mp3": "music3.mp3",    "link_mp3": "music3.mp3"  },
+  {    "name_mp3": "music2.mp3",    "link_mp3": "music2.mp3"  },
+  {    "name_mp3": "music10.mp3",    "link_mp3": "music10.mp3"  },
+  {    "name_mp3": "music1.mp3",    "link_mp3": "music1.mp3"  },
+  {    "name_mp3": "emj (9).mp3",    "link_mp3": "emj (9).mp3"  },
+  {    "name_mp3": "emj (8).mp3",    "link_mp3": "emj (8).mp3"  },
+  {    "name_mp3": "emj (7).mp3",    "link_mp3": "emj (7).mp3"  },
+  {    "name_mp3": "emj (6).mp3",    "link_mp3": "emj (6).mp3"  },
+  {    "name_mp3": "emj (5).mp3",    "link_mp3": "emj (5).mp3"  },
+  {    "name_mp3": "emj (4).mp3",    "link_mp3": "emj (4).mp3"  },
+  {    "name_mp3": "emj (3).mp3",    "link_mp3": "emj (3).mp3"  },
+  {    "name_mp3": "emj (2).mp3",    "link_mp3": "emj (2).mp3"  },
+  {    "name_mp3": "emj (11).mp3",    "link_mp3": "emj (11).mp3"  },
+  {    "name_mp3": "emj (10).mp3",    "link_mp3": "emj (10).mp3"  },
+  {    "name_mp3": "emj (1).mp3",    "link_mp3": "emj (1).mp3"  },
+  {    "name_mp3": "dj (9).mp3",    "link_mp3": "dj (9).mp3"  },
+  {    "name_mp3": "dj (8).mp3",    "link_mp3": "dj (8).mp3"  },
+  {    "name_mp3": "dj (7).mp3",    "link_mp3": "dj (7).mp3"  },
+  {    "name_mp3": "dj (6).mp3",    "link_mp3": "dj (6).mp3"  },
+  {    "name_mp3": "dj (5).mp3",    "link_mp3": "dj (5).mp3"  },
+  {    "name_mp3": "dj (4).mp3",    "link_mp3": "dj (4).mp3"  },
+  {    "name_mp3": "dj (3).mp3",    "link_mp3": "dj (3).mp3"  },
+  {    "name_mp3": "dj (2).mp3",    "link_mp3": "dj (2).mp3"  },
+  {    "name_mp3": "dj (10).mp3",    "link_mp3": "dj (10).mp3"  },
+  {    "name_mp3": "dj (1).mp3",    "link_mp3": "dj (1).mp3"  }
+
+  
+ ],"Wallpaper": [
+
+ {    "image": "file:///android_asset/wallpaper (1).png"  },
+ {    "image": "file:///android_asset/wallpaper (2).png"  },
+ {    "image": "file:///android_asset/wallpaper (3).png"  },
+ {    "image": "file:///android_asset/wallpaper (4).png"  },
+ {    "image": "file:///android_asset/wallpaper (5).png"  },
+ {    "image": "file:///android_asset/wallpaper (6).png"  }
+
+
+]
+}
