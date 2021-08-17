@@ -1,0 +1,120 @@
+{
+"Ads": [
+{
+
+// 0 artinya tidak di redirect
+// 1 artinya di redirect
+"STATUS_APP" : "0",
+"LINK_REDIRECT" : "https://play.google.com/store/apps/details?id=com.package.name",
+
+// online atau offline
+"MODE_mp3_online_offline" : "online",
+
+
+"MODE_NO_ADS" : true,
+"ADS_on_START" : true,
+"ads_on_exit_dialog" : true,
+
+"Json_popup_Wait" : "Data Ready to GO . . .",
+"Mode_No_Ads_true" : "Proversion Activated",
+
+// mode iklan list
+// PENGATURAN IKLAN
+// admob1 = backup startapp
+// admob2 = backup unity backup startapp
+// fan
+// unity = backup startapp
+
+"MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_UNITY" : true,
+"PENGATURAN_IKLAN_banner" : "admob1",
+"PENGATURAN_IKLAN_inter" : "admob1",
+"INTER_COUNT" : 15,
+
+"ADMOB_INTER" : "ca-app-pub-3940256099942544/1033173712",
+"ADMOB_BANNER" : "ca-app-pub-3940256099942544/6300978111",
+"ADMOB_OPENADS" : "ca-app-pub-3940256099942544/3419835294",
+
+"FAN_INTER" : "YOUR_PLACEMENT_ID",
+"FAN_BANNER" : "YOUR_PLACEMENT_ID",
+
+"UNITY_BANNER" : "banner",
+"UNITY_INTERSTITIAL" : "interstitial",
+"UNITY_GAME_ID" : "isi",
+
+"STARAPPID" : "12345",
+"enable_strap" : true,
+"enable_strap_SplahScreen" : false,
+
+
+// Bantu Rating 5 bintang agar kami dapat terus memberikan informasi informasi terbaru
+// help give us a 5 star rating, so we keep the spirit of providing the latest updates
+// jika shre button true maka more button berubah fungsi menjadi share - more url hilang menjadi share
+"Exit_Popup_Dialog" : "Bantu Rating 5 bintang agar kami dapat terus memberikan informasi informasi terbaru",
+"Rate_Button" : "Rating Sekarang",
+"Later_Button" : "nanti",
+"enable_Share_button" : true,
+"Share_TXT" : "Aplikasi yang aku udah download ini berfaedah banget, cobain download juga.. klik link aja ya",
+"More_Button" : "Bagikan Aplikasi ini",
+"Url_More_Apps" : "https://play.google.com/store/apps/details?id=com.package.name"
+
+}
+]
+,
+"Mp3": [
+
+  {    "name_mp3": "DJVISI MISI FOYA FOYA.mp3",    "link_mp3": "DJVISI MISI FOYA FOYA.mp3"  },
+  {    "name_mp3": "DJTUM HI HO TERE TEREBUM.mp3",    "link_mp3": "DJTUM HI HO TERE TEREBUM.mp3"  },
+  {    "name_mp3": "DJTUM HI HO REMIX.mp3",    "link_mp3": "DJTUM HI HO REMIX.mp3"  },
+  {    "name_mp3": "DJTULUNG PERCOYO AKU SAYANG AWAKMU.mp3",    "link_mp3": "DJTULUNG PERCOYO AKU SAYANG AWAKMU.mp3"  },
+  {    "name_mp3": "DJTUHAN KU CINTA DIA KU INGIN BERSAMANYAREMIX.mp3",    "link_mp3": "DJTUHAN KU CINTA DIA KU INGIN BERSAMANYAREMIX.mp3"  },
+  {    "name_mp3": "DJTUHAN KU CINTA DIA KU INGIN BERSAMANYA.mp3",    "link_mp3": "DJTUHAN KU CINTA DIA KU INGIN BERSAMANYA.mp3"  },
+  {    "name_mp3": "DJTIE ME DOWN VIRAL.mp3",    "link_mp3": "DJTIE ME DOWN VIRAL.mp3"  },
+  {    "name_mp3": "DJTERPESONA AKU TERPESONA.mp3",    "link_mp3": "DJTERPESONA AKU TERPESONA.mp3"  },
+  {    "name_mp3": "DJTANAM TANAM UBI.mp3",    "link_mp3": "DJTANAM TANAM UBI.mp3"  },
+  {    "name_mp3": "DJTANAM TANAM UBI REMIX.mp3",    "link_mp3": "DJTANAM TANAM UBI REMIX.mp3"  },
+  {    "name_mp3": "DJSIK ASIK YA CUMA DIGELENG GELENG VIRAL.mp3",    "link_mp3": "DJSIK ASIK YA CUMA DIGELENG GELENG VIRAL.mp3"  },
+  {    "name_mp3": "DJSEMAKIN SAYANG SEMAKIN KEJAM.mp3",    "link_mp3": "DJSEMAKIN SAYANG SEMAKIN KEJAM.mp3"  },
+  {    "name_mp3": "DJSAYANG BAPAKKU DOKTER CINTA.mp3",    "link_mp3": "DJSAYANG BAPAKKU DOKTER CINTA.mp3"  },
+  {    "name_mp3": "DJSANFONIA VISI MISI FOYA FOYA.mp3",    "link_mp3": "DJSANFONIA VISI MISI FOYA FOYA.mp3"  },
+  {    "name_mp3": "DJSAMA TEMAN GOYANG DUMANG.mp3",    "link_mp3": "DJSAMA TEMAN GOYANG DUMANG.mp3"  },
+  {    "name_mp3": "DJSAMA TEMAN GOYANG DUMANG MAUNYA DIGOYANG.mp3",    "link_mp3": "DJSAMA TEMAN GOYANG DUMANG MAUNYA DIGOYANG.mp3"  },
+  {    "name_mp3": "DJSAKIT GIGI.mp3",    "link_mp3": "DJSAKIT GIGI.mp3"  },
+  {    "name_mp3": "DJSA JANJI TRA MINUM LAGI.mp3",    "link_mp3": "DJSA JANJI TRA MINUM LAGI.mp3"  },
+  {    "name_mp3": "DJSA JANJI TRA AKAN MINUM LAGI.mp3",    "link_mp3": "DJSA JANJI TRA AKAN MINUM LAGI.mp3"  },
+  {    "name_mp3": "DJPUTUS LAGI CINTAKU.mp3",    "link_mp3": "DJPUTUS LAGI CINTAKU.mp3"  },
+  {    "name_mp3": "DJPENGEN PANSOS DIGI BAM BAM.mp3",    "link_mp3": "DJPENGEN PANSOS DIGI BAM BAM.mp3"  },
+  {    "name_mp3": "DJPACARKU DITIKUNG TEMAN.mp3",    "link_mp3": "DJPACARKU DITIKUNG TEMAN.mp3"  },
+  {    "name_mp3": "DJPACARKU DI TIKUNG TEMAN.mp3",    "link_mp3": "DJPACARKU DI TIKUNG TEMAN.mp3"  },
+  {    "name_mp3": "DJOH ANGIN BISIKAN PADANYA.mp3",    "link_mp3": "DJOH ANGIN BISIKAN PADANYA.mp3"  },
+  {    "name_mp3": "DJNAINOWALE NE.mp3",    "link_mp3": "DJNAINOWALE NE.mp3"  },
+  {    "name_mp3": "DJMUSKURANE REMIX.mp3",    "link_mp3": "DJMUSKURANE REMIX.mp3"  },
+  {    "name_mp3": "DJMEMANG AKU AKUI AKULAH YANG BERSALAH.mp3",    "link_mp3": "DJMEMANG AKU AKUI AKULAH YANG BERSALAH.mp3"  },
+  {    "name_mp3": "DJMEMANDANGMU.mp3",    "link_mp3": "DJMEMANDANGMU.mp3"  },
+  {    "name_mp3": "DJMANIS BUAH KELAPA TAK SEMANIS GULA.mp3",    "link_mp3": "DJMANIS BUAH KELAPA TAK SEMANIS GULA.mp3"  },
+  {    "name_mp3": "DJMAGIC RUDE VIRAL.mp3",    "link_mp3": "DJMAGIC RUDE VIRAL.mp3"  },
+  {    "name_mp3": "DJLON RINDU REMIX.mp3",    "link_mp3": "DJLON RINDU REMIX.mp3"  },
+  {    "name_mp3": "DJKURELAKAN ENGKAU PERGI.mp3",    "link_mp3": "DJKURELAKAN ENGKAU PERGI.mp3"  },
+  {    "name_mp3": "DJKOPI LAMBADA REMIX.mp3",    "link_mp3": "DJKOPI LAMBADA REMIX.mp3"  },
+  {    "name_mp3": "DJKOMANG RIMEX WEAKNESS.mp3",    "link_mp3": "DJKOMANG RIMEX WEAKNESS.mp3"  },
+  {    "name_mp3": "DJKANAN KIRI PUTAR PUTAR JARI.mp3",    "link_mp3": "DJKANAN KIRI PUTAR PUTAR JARI.mp3"  },
+  {    "name_mp3": "DJJANG GANGGU.mp3",    "link_mp3": "DJJANG GANGGU.mp3"  },
+  {    "name_mp3": "DJISTRI BAWA DUKA JANDA BAWA BERKAH.mp3",    "link_mp3": "DJISTRI BAWA DUKA JANDA BAWA BERKAH.mp3"  },
+  {    "name_mp3": "DJIRI BILANG BABI BUMA BUMA YE.mp3",    "link_mp3": "DJIRI BILANG BABI BUMA BUMA YE.mp3"  },
+  {    "name_mp3": "DJIM LADY CUKUP TAU TAK PERLU MERAYU.mp3",    "link_mp3": "DJIM LADY CUKUP TAU TAK PERLU MERAYU.mp3"  },
+  {    "name_mp3": "DJI M LADY KARENA AKU SANG PUTRI.mp3",    "link_mp3": "DJI M LADY KARENA AKU SANG PUTRI.mp3"  },
+  {    "name_mp3": "DJHOW DOU YOU DO LALALA.mp3",    "link_mp3": "DJHOW DOU YOU DO LALALA.mp3"  },
+  {    "name_mp3": "DJHARUSKAH AKU MATI VIRAL.mp3",    "link_mp3": "DJHARUSKAH AKU MATI VIRAL.mp3"  }
+
+  
+ ],"Wallpaper": [
+
+ {    "image": "file:///android_asset/wallpaper (1).jpg"  },
+ {    "image": "file:///android_asset/wallpaper (1).png"  },
+ {    "image": "file:///android_asset/wallpaper (2).png"  },
+ {    "image": "file:///android_asset/wallpaper (3).png"  },
+ {    "image": "file:///android_asset/wallpaper (4).png"  },
+ {    "image": "file:///android_asset/wallpaper (5).png"  }
+
+
+]
+}
