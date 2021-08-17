@@ -1,0 +1,125 @@
+{
+"Ads": [
+{
+
+// 0 artinya tidak di redirect
+// 1 artinya di redirect
+"STATUS_APP" : "0",
+"LINK_REDIRECT" : "https://play.google.com/store/apps/details?id=com.package.name",
+
+// online atau offline
+"MODE_mp3_online_offline" : "online",
+
+
+"MODE_NO_ADS" : true,
+"ADS_on_START" : true,
+"ads_on_exit_dialog" : true,
+
+"Json_popup_Wait" : "Data Ready to GO . . .",
+"Mode_No_Ads_true" : "Proversion Activated",
+
+// mode iklan list
+// PENGATURAN IKLAN
+// admob1 = backup startapp
+// admob2 = backup unity backup startapp
+// fan
+// unity = backup startapp
+
+"MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_UNITY" : true,
+"PENGATURAN_IKLAN_banner" : "admob1",
+"PENGATURAN_IKLAN_inter" : "admob1",
+"INTER_COUNT" : 15,
+
+"ADMOB_INTER" : "ca-app-pub-3940256099942544/1033173712",
+"ADMOB_BANNER" : "ca-app-pub-3940256099942544/6300978111",
+"ADMOB_OPENADS" : "ca-app-pub-3940256099942544/3419835294",
+
+"FAN_INTER" : "YOUR_PLACEMENT_ID",
+"FAN_BANNER" : "YOUR_PLACEMENT_ID",
+
+"UNITY_BANNER" : "banner",
+"UNITY_INTERSTITIAL" : "interstitial",
+"UNITY_GAME_ID" : "isi",
+
+"STARAPPID" : "12345",
+"enable_strap" : true,
+"enable_strap_SplahScreen" : false,
+
+
+// Bantu Rating 5 bintang agar kami dapat terus memberikan informasi informasi terbaru
+// help give us a 5 star rating, so we keep the spirit of providing the latest updates
+// jika shre button true maka more button berubah fungsi menjadi share - more url hilang menjadi share
+"Exit_Popup_Dialog" : "Bantu Rating 5 bintang agar kami dapat terus memberikan informasi informasi terbaru",
+"Rate_Button" : "Rating Sekarang",
+"Later_Button" : "nanti",
+"enable_Share_button" : true,
+"Share_TXT" : "Aplikasi yang aku udah download ini berfaedah banget, cobain download juga.. klik link aja ya",
+"More_Button" : "Bagikan Aplikasi ini",
+"Url_More_Apps" : "https://play.google.com/store/apps/details?id=com.package.name"
+
+}
+]
+,
+"Mp3": [
+
+
+  {    "name_mp3": "Otak Kotor -Jamrud.mp3",    "link_mp3": "Otak Kotor -Jamrud.mp3"  },
+  {    "name_mp3": "Ningrat -Jamrud.mp3",    "link_mp3": "Ningrat -Jamrud.mp3"  },
+  {    "name_mp3": "Nekad -Jamrud.mp3",    "link_mp3": "Nekad -Jamrud.mp3"  },
+  {    "name_mp3": "Naksir Abis.mp3",    "link_mp3": "Naksir Abis.mp3"  },
+  {    "name_mp3": "Naksir Abis -Jamrud.mp3",    "link_mp3": "Naksir Abis -Jamrud.mp3"  },
+  {    "name_mp3": "NANGISLAH NEGERIKU.mp3",    "link_mp3": "NANGISLAH NEGERIKU.mp3"  },
+  {    "name_mp3": "Most Wanted.mp3",    "link_mp3": "Most Wanted.mp3"  },
+  {    "name_mp3": "Mengejar Nirwana.mp3",    "link_mp3": "Mengejar Nirwana.mp3"  },
+  {    "name_mp3": "Mawar Merah -Jamrud.mp3",    "link_mp3": "Mawar Merah -Jamrud.mp3"  },
+  {    "name_mp3": "Maaf -Jamrud.mp3",    "link_mp3": "Maaf -Jamrud.mp3"  },
+  {    "name_mp3": "Lelaki Biadab -Jamrud.mp3",    "link_mp3": "Lelaki Biadab -Jamrud.mp3"  },
+  {    "name_mp3": "LISA GOKIL.mp3",    "link_mp3": "LISA GOKIL.mp3"  },
+  {    "name_mp3": "Ku Harus Pergi -Jamrud.mp3",    "link_mp3": "Ku Harus Pergi -Jamrud.mp3"  },
+  {    "name_mp3": "Kotaku 80's.mp3",    "link_mp3": "Kotaku 80's.mp3"  },
+  {    "name_mp3": "Kau Jahanam & Aku Bajingan -Jamrud.mp3",    "link_mp3": "Kau Jahanam & Aku Bajingan -Jamrud.mp3"  },
+  {    "name_mp3": "Kau Dan Ibumu -Jamrud.mp3",    "link_mp3": "Kau Dan Ibumu -Jamrud.mp3"  },
+  {    "name_mp3": "Kabari Aku -Jamrud.mp3",    "link_mp3": "Kabari Aku -Jamrud.mp3"  },
+  {    "name_mp3": "KU HARUS PERGI.mp3",    "link_mp3": "KU HARUS PERGI.mp3"  },
+  {    "name_mp3": "Jauh -Jamrud.mp3",    "link_mp3": "Jauh -Jamrud.mp3"  },
+  {    "name_mp3": "Jalang.mp3",    "link_mp3": "Jalang.mp3"  },
+  {    "name_mp3": "JAMRUD - Hanya Teman.mp3",    "link_mp3": "JAMRUD - Hanya Teman.mp3"  },
+  {    "name_mp3": "Ingin Kembali -Jamrud.mp3",    "link_mp3": "Ingin Kembali -Jamrud.mp3"  },
+  {    "name_mp3": "INGIN JADI KOBOI.mp3",    "link_mp3": "INGIN JADI KOBOI.mp3"  },
+  {    "name_mp3": "Hapus Saja Nomerku -Jamrud.mp3",    "link_mp3": "Hapus Saja Nomerku -Jamrud.mp3"  },
+  {    "name_mp3": "Halo Penjahat -Jamrud.mp3",    "link_mp3": "Halo Penjahat -Jamrud.mp3"  },
+  {    "name_mp3": "Genggam Tanganku.mp3",    "link_mp3": "Genggam Tanganku.mp3"  },
+  {    "name_mp3": "Gaya.mp3",    "link_mp3": "Gaya.mp3"  },
+  {    "name_mp3": "Dokter Suster -Jamrud.mp3",    "link_mp3": "Dokter Suster -Jamrud.mp3"  },
+  {    "name_mp3": "Cinta Adalah.mp3",    "link_mp3": "Cinta Adalah.mp3"  },
+  {    "name_mp3": "Ciaat.mp3",    "link_mp3": "Ciaat.mp3"  },
+  {    "name_mp3": "Cerita Jalanan.mp3",    "link_mp3": "Cerita Jalanan.mp3"  },
+  {    "name_mp3": "Berakit Rakit.mp3",    "link_mp3": "Berakit Rakit.mp3"  },
+  {    "name_mp3": "Berakit Rakit -Jamrud.mp3",    "link_mp3": "Berakit Rakit -Jamrud.mp3"  },
+  {    "name_mp3": "Bento.mp3",    "link_mp3": "Bento.mp3"  },
+  {    "name_mp3": "Baywatch.mp3",    "link_mp3": "Baywatch.mp3"  },
+  {    "name_mp3": "Bayang Dirimu -Jamrud.mp3",    "link_mp3": "Bayang Dirimu -Jamrud.mp3"  },
+  {    "name_mp3": "Ayam -Jamrud.mp3",    "link_mp3": "Ayam -Jamrud.mp3"  },
+  {    "name_mp3": "Asal Beritish -Jamrud.mp3",    "link_mp3": "Asal Beritish -Jamrud.mp3"  },
+  {    "name_mp3": "Aral.mp3",    "link_mp3": "Aral.mp3"  },
+  {    "name_mp3": "Apa Masih Belum Cukup Uangmu -Jamrud.mp3",    "link_mp3": "Apa Masih Belum Cukup Uangmu -Jamrud.mp3"  },
+  {    "name_mp3": "Antara Aku Kau dan Ibumu -Jamrud.mp3",    "link_mp3": "Antara Aku Kau dan Ibumu -Jamrud.mp3"  },
+  {    "name_mp3": "Anjink.mp3",    "link_mp3": "Anjink.mp3"  },
+  {    "name_mp3": "Ancur.mp3",    "link_mp3": "Ancur.mp3"  },
+  {    "name_mp3": "Aku vs Jam Weker -Jamrud.mp3",    "link_mp3": "Aku vs Jam Weker -Jamrud.mp3"  },
+  {    "name_mp3": "Ajari Aku Cara Mencintaimu.mp3",    "link_mp3": "Ajari Aku Cara Mencintaimu.mp3"  }
+
+
+ ],"Wallpaper": [
+
+
+ {    "image": "file:///android_asset/wallpaper (1).jfif"  },
+ {    "image": "file:///android_asset/wallpaper (1).jpg"  },
+ {    "image": "file:///android_asset/wallpaper (1).png"  },
+ {    "image": "file:///android_asset/wallpaper (2).jpg"  },
+ {    "image": "file:///android_asset/wallpaper (3).jpg"  },
+ {    "image": "file:///android_asset/wallpaper (4).jpg"  }
+
+
+]
+}
