@@ -1,17 +1,22 @@
 {
 "Ads": [
 {
-
+     
+// NOTE
+// belum FAN DAN STARTRAPP
+// baru unity saja
+     
+     
 // 0 artinya tidak di redirect
 // 1 artinya di redirect
 "STATUS_APP" : "0",
 "LINK_REDIRECT" : "https://play.google.com/store/apps/details?id=com.package.name",
 
 // online atau offline
-"MODE_mp3_online_offline" : "online",
+"MODE_mp3_online_offline" : "offline",
 
 
-"MODE_NO_ADS" : true,
+"MODE_NO_ADS" : false,
 "ADS_on_START" : true,
 "ads_on_exit_dialog" : true,
 
@@ -25,100 +30,62 @@
 // fan
 // unity = backup startapp
 
-"MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_UNITY" : true,
+"MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_UNITY" : false,
 "PENGATURAN_IKLAN_banner" : "admob1",
 "PENGATURAN_IKLAN_inter" : "admob1",
-"INTER_COUNT" : 15,
+"INTER_COUNT" : 5,	
 
-"ADMOB_INTER" : "ca-app-pub-3940256099942544/1033173712",
-"ADMOB_BANNER" : "ca-app-pub-3940256099942544/6300978111",
-"ADMOB_OPENADS" : "ca-app-pub-3940256099942544/3419835294",
+"ADMOB_INTER" : "ca-app-pub-7530364106237448/",
+"ADMOB_BANNER" : "ca-app-pub-7530364106237448/",
+"ADMOB_OPENADS" : "ca-app-pub-7530364106237448/",
 
-"FAN_INTER" : "YOUR_PLACEMENT_ID",
-"FAN_BANNER" : "YOUR_PLACEMENT_ID",
+"FAN_INTER" : "id fan",
+"FAN_BANNER" : "id fan",
 
-"UNITY_BANNER" : "banner",
-"UNITY_INTERSTITIAL" : "interstitial",
-"UNITY_GAME_ID" : "isi",
+"UNITY_BANNER" : "Banner_Android",
+"UNITY_INTERSTITIAL" : "Interstitial_Android",
+"UNITY_GAME_ID" : "4183289",
 
-"STARAPPID" : "12345",
+"startappid" : "207333353",
 "enable_strap" : true,
-"enable_strap_SplahScreen" : false,
+"enable_strap_SplahScreen" : true,
 
 
 // Bantu Rating 5 bintang agar kami dapat terus memberikan informasi informasi terbaru
 // help give us a 5 star rating, so we keep the spirit of providing the latest updates
 // jika shre button true maka more button berubah fungsi menjadi share - more url hilang menjadi share
-"Exit_Popup_Dialog" : "Bantu Rating 5 bintang agar kami dapat terus memberikan informasi informasi terbaru",
-"Rate_Button" : "Rating Sekarang",
-"Later_Button" : "nanti",
+"Exit_Popup_Dialog" : "
+yuk bantu rating bintang 5 aplikasi ini
+     
+agar kami lebih bersemangat untuk menambahkan fitur fitur baru :)
+     
+kamu  juga bisa request lagu apa yang dapat kami tambahkan di  komentar setelah melakukan rating loo",
+"Rate_Button" : "Rating 5 Sekarang",
+"Later_Button" : "Ratingnya nanti ajaa deh",
 "enable_Share_button" : true,
-"Share_TXT" : "Aplikasi yang aku udah download ini berfaedah banget, cobain download juga.. klik link aja ya",
-"More_Button" : "Bagikan Aplikasi ini",
+"Share_TXT" : "
+wow wow wow aplikasi ini keren banget gaes
+
+lengkap kekinian
+
+aku udah nyobain, seriusan kamu perlu coba juga
+coba download aja klik link dibawah 
+
+",
+"More_Button" : "Bagikan Aplikasi ini ke teman via whatsapp",
 "Url_More_Apps" : "https://play.google.com/store/apps/details?id=com.package.name"
 
 }
-]
-,
- "Mp3": [
+],"Mp3": [
 
-  {    "name_mp3": "DJBERNYANYI.mp3",    "link_mp3": "DJBERNYANYI.mp3"  },
-  {    "name_mp3": "DJDADA SAYANG.mp3",    "link_mp3": "DJDADA SAYANG.mp3"  },
-  {    "name_mp3": "DJDINGIN KERINGETAN AISYAH MAYMUNAH.mp3",    "link_mp3": "DJDINGIN KERINGETAN AISYAH MAYMUNAH.mp3"  },
-  {    "name_mp3": "DJHANYUT DALAM KECEWA.mp3",    "link_mp3": "DJHANYUT DALAM KECEWA.mp3"  },
-  {    "name_mp3": "DJIM LADY TIK TOK REMIX.mp3",    "link_mp3": "DJIM LADY TIK TOK REMIX.mp3"  },
-  {    "name_mp3": "DJKUPERGI AKAN KEMBALI ANDRA RESPATI.mp3",    "link_mp3": "DJKUPERGI AKAN KEMBALI ANDRA RESPATI.mp3"  },
-  {    "name_mp3": "DJLA BOMBA TIK TOK REMIX.mp3",    "link_mp3": "DJLA BOMBA TIK TOK REMIX.mp3"  },
-  {    "name_mp3": "DJLuruh Cintaku.mp3",    "link_mp3": "DJLuruh Cintaku.mp3"  },
-  {    "name_mp3": "DJPlis Cobain Jatah Mantan Nya.mp3",    "link_mp3": "DJPlis Cobain Jatah Mantan Nya.mp3"  },
-  {    "name_mp3": "DJSELAMAT PAGI DUNIA TIPU TIPU.mp3",    "link_mp3": "DJSELAMAT PAGI DUNIA TIPU TIPU.mp3"  },
-  {    "name_mp3": "DJSIT STILL LOOK PRETTY REMIX.mp3",    "link_mp3": "DJSIT STILL LOOK PRETTY REMIX.mp3"  },
-  {    "name_mp3": "DJTerpesona Aku Terpesona.mp3",    "link_mp3": "DJTerpesona Aku Terpesona.mp3"  },
-  {    "name_mp3": "DJWIP - WUP Remix.mp3",    "link_mp3": "DJWIP - WUP Remix.mp3"  },
-  {    "name_mp3": "DJYA LILI YA LILA FULL BASS.mp3",    "link_mp3": "DJYA LILI YA LILA FULL BASS.mp3"  },
-  {    "name_mp3": "DJYANG MERASA DITINGGAL PACARNYA TANGANNYA.mp3",    "link_mp3": "DJYANG MERASA DITINGGAL PACARNYA TANGANNYA.mp3"  },
-  {    "name_mp3": "DJZunea Zunea Slow.mp3",    "link_mp3": "DJZunea Zunea Slow.mp3"  },
-  {    "name_mp3": "DJBersyukurlah janda perawan.mp3",    "link_mp3": "DJBersyukurlah janda perawan.mp3"  },
-  {    "name_mp3": "DJBojomu Semangatku.mp3",    "link_mp3": "DJBojomu Semangatku.mp3"  },
-  {    "name_mp3": "DJBurunglah Putih Maradai.mp3",    "link_mp3": "DJBurunglah Putih Maradai.mp3"  },
-  {    "name_mp3": "DJCemburu Mantanmu.mp3",    "link_mp3": "DJCemburu Mantanmu.mp3"  },
-  {    "name_mp3": "DJCoba Kau Ingat - Kembali.mp3",    "link_mp3": "DJCoba Kau Ingat - Kembali.mp3"  },
-  {    "name_mp3": "DJDingin Keringetan.mp3",    "link_mp3": "DJDingin Keringetan.mp3"  },
-  {    "name_mp3": "DJDominique remix.mp3",    "link_mp3": "DJDominique remix.mp3"  },
-  {    "name_mp3": "DJDunia Tipu Tipu.mp3",    "link_mp3": "DJDunia Tipu Tipu.mp3"  },
-  {    "name_mp3": "DJGaun Merah.mp3",    "link_mp3": "DJGaun Merah.mp3"  },
-  {    "name_mp3": "DJGerimis melanda hati.mp3",    "link_mp3": "DJGerimis melanda hati.mp3"  },
-  {    "name_mp3": "DJhadal ahbek.mp3",    "link_mp3": "DJhadal ahbek.mp3"  },
-  {    "name_mp3": "DJI Wonder How I Wonder Why.mp3",    "link_mp3": "DJI Wonder How I Wonder Why.mp3"  },
-  {    "name_mp3": "DJJar Of Heart.mp3",    "link_mp3": "DJJar Of Heart.mp3"  },
-  {    "name_mp3": "DJKamu Bukan Putri Raja Remix.mp3",    "link_mp3": "DJKamu Bukan Putri Raja Remix.mp3"  },
-  {    "name_mp3": "DJKo Mau Cari Yang Bagaimana.mp3",    "link_mp3": "DJKo Mau Cari Yang Bagaimana.mp3"  },
-  {    "name_mp3": "DJLadadidadadida.mp3",    "link_mp3": "DJLadadidadadida.mp3"  },
-  {    "name_mp3": "DJLeda Lede.mp3",    "link_mp3": "DJLeda Lede.mp3"  },
-  {    "name_mp3": "DjLelaki Cadangan.mp3",    "link_mp3": "DjLelaki Cadangan.mp3"  },
-  {    "name_mp3": "DJLemesin Shay.mp3",    "link_mp3": "DJLemesin Shay.mp3"  },
-  {    "name_mp3": "DJLupakanlah Semua Kenangan.mp3",    "link_mp3": "DJLupakanlah Semua Kenangan.mp3"  },
-  {    "name_mp3": "DJMalam tahun baru.mp3",    "link_mp3": "DJMalam tahun baru.mp3"  },
-  {    "name_mp3": "DJNdasku Mumet Ndasmu Piye.mp3",    "link_mp3": "DJNdasku Mumet Ndasmu Piye.mp3"  },
-  {    "name_mp3": "DJPink Sweat$ - At My Worst.mp3",    "link_mp3": "DJPink Sweat$ - At My Worst.mp3"  },
-  {    "name_mp3": "DJPliss Cobain Jatah Mantan.mp3",    "link_mp3": "DJPliss Cobain Jatah Mantan.mp3"  },
-  {    "name_mp3": "DJPota Pota Remix Full Bass.mp3",    "link_mp3": "DJPota Pota Remix Full Bass.mp3"  },
-  {    "name_mp3": "DJSaya Masih Ting Ting.mp3",    "link_mp3": "DJSaya Masih Ting Ting.mp3"  },
-  {    "name_mp3": "DJSungguh Ku Merasa Resah.mp3",    "link_mp3": "DJSungguh Ku Merasa Resah.mp3"  },
-  {    "name_mp3": "DJTerpesona.mp3",    "link_mp3": "DJTerpesona.mp3"  },
-  {    "name_mp3": "DJTiap Hari Bangka Dada.mp3",    "link_mp3": "DJTiap Hari Bangka Dada.mp3"  },
-  {    "name_mp3": "DJYang Merasa Ditinggal Pacarnya.mp3",    "link_mp3": "DJYang Merasa Ditinggal Pacarnya.mp3"  }
-
-
- ],"Wallpaper": [
-
- {    "image": "file:///android_asset/wallpaper (1).jpg"  },
- {    "image": "file:///android_asset/wallpaper (1).png"  },
- {    "image": "file:///android_asset/wallpaper (2).jpg"  },
- {    "image": "file:///android_asset/wallpaper (2).png"  },
- {    "image": "file:///android_asset/wallpaper (3).jpg"  },
- {    "image": "file:///android_asset/wallpaper (3).png"  }
-
-
-]
+{
+"name_mp3": "PKEMON DIMANA KAMU", "link_mp3": "PKEMON DIMANA KAMU.mp3"
 }
+
+],"Wallpaper": [
+
+{
+"image": "file:///android_asset/dj.jpg"
+}
+
+]}

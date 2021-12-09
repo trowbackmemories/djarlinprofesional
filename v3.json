@@ -27,22 +27,22 @@
 "MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_UNITY" : false,
 "PENGATURAN_IKLAN_BANNER" : "ADMOB",
 "PENGATURAN_IKLAN_INTER" : "ADMOB",
-"INTER_COUNT" : 5,
+"INTER_COUNT" : 10,
 
-"IRONSOURCE_APPKEY" : "-",
+"IRONSOURCE_APPKEY" : "1043d1341",
 
-"ADMOB_INTER" : "ca-app-pub-3940256099942544/",
-"ADMOB_BANNER" : "ca-app-pub-3940256099942544/",
-"ADMOB_OPENADS" : "ca-app-pub-3940256099942544/",
+"ADMOB_INTER" : "ca-app-pub-3940256099942544/1033173712",
+"ADMOB_BANNER" : "ca-app-pub-3940256099942544/6300978111",
+"ADMOB_OPENADS" : "ca-app-pub-3940256099942544/3419835294",
 
 "FAN_INTER" : "YOUR_PLACEMENT_ID",
 "FAN_BANNER" : "YOUR_PLACEMENT_ID",
 
-"UNITY_BANNER" : "Banner_Android",
-"UNITY_INTERSTITIAL" : "Interstitial_Android",
-"UNITY_GAME_ID" : "4183289",
+"UNITY_BANNER" : "banner",
+"UNITY_INTERSTITIAL" : "interstitial",
+"UNITY_GAME_ID" : "isi",
 
-"STARTAPPID" : "207333353",
+"STARTAPPID" : "12345",
 "ENABLE_STRAP" : true,
 "ENABLE_STRAP_SPLAHSCREEN" : false,
 
@@ -67,14 +67,40 @@ cobain download juga.. klik link aja ya
 "MORE_BUTTON" : "Bagikan Aplikasi Via Whatsapp",
 "URL_MORE_APPS" : "https://play.google.com/store/apps/details?id=com.package.name"
 
-}],"Mp3": [
+}
+]
+,
+ "Mp3": [
 
   {    "name_mp3": "musik (9).ogg",    "link_mp3": "musik (9).ogg"  },
-  {    "name_mp3": "musik (8).ogg",    "link_mp3": "musik (8).ogg"  }
+  {    "name_mp3": "musik (8).ogg",    "link_mp3": "musik (8).ogg"  },
+  {    "name_mp3": "musik (7).ogg",    "link_mp3": "musik (7).ogg"  },
+  {    "name_mp3": "musik (6).ogg",    "link_mp3": "musik (6).ogg"  },
+  {    "name_mp3": "musik (5).ogg",    "link_mp3": "musik (5).ogg"  },
+  {    "name_mp3": "musik (4).ogg",    "link_mp3": "musik (4).ogg"  },
+  {    "name_mp3": "musik (3).ogg",    "link_mp3": "musik (3).ogg"  },
+  {    "name_mp3": "musik (2).ogg",    "link_mp3": "musik (2).ogg"  },
+  {    "name_mp3": "musik (17).ogg",    "link_mp3": "musik (17).ogg"  },
+  {    "name_mp3": "musik (16).ogg",    "link_mp3": "musik (16).ogg"  },
+  {    "name_mp3": "musik (15).ogg",    "link_mp3": "musik (15).ogg"  },
+  {    "name_mp3": "musik (14).ogg",    "link_mp3": "musik (14).ogg"  },
+  {    "name_mp3": "musik (13).ogg",    "link_mp3": "musik (13).ogg"  },
+  {    "name_mp3": "musik (12).ogg",    "link_mp3": "musik (12).ogg"  },
+  {    "name_mp3": "musik (11).ogg",    "link_mp3": "musik (11).ogg"  },
+  {    "name_mp3": "musik (10).ogg",    "link_mp3": "musik (10).ogg"  },
+  {    "name_mp3": "musik (1).ogg",    "link_mp3": "musik (1).ogg"  }
+
 
  ],"Wallpaper": [
 
+
  {    "image": "file:///android_asset/wallpaper (1).jpg"  },
+ {    "image": "file:///android_asset/wallpaper (2).jpg"  },
+ {    "image": "file:///android_asset/wallpaper (3).jpg"  },
+ {    "image": "file:///android_asset/wallpaper (4).jpg"  },
+ {    "image": "file:///android_asset/wallpaper (5).jpg"  },
  {    "image": "file:///android_asset/wallpaper (6).jpg"  }
 
-]}
+
+]
+}
