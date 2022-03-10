@@ -1,80 +1,90 @@
 {
 "Ads": [
 {
-
+// NOTE
+// belum FAN DAN STARTRAPP
+// baru unity saja
+     
+     
 // 0 artinya tidak di redirect
-// 1 artinya di redirect
+// 1 artinya di redireffct
 "STATUS_APP" : "0",
 "LINK_REDIRECT" : "https://play.google.com/store/apps/details?id=com.package.name",
 
 // online atau offline
-"MODE_MP3_ONLINE_OFFLINE" : "offline",
+"MODE_mp3_online_offline" : "offline",
+
 
 "MODE_NO_ADS" : false,
-"ADS_ON_START" : true,
-"ADS_ON_EXIT_DIALOG" : true,
+"ADS_on_START" : true,
+"ads_on_exit_dialog" : true,
 
-"JSON_POPUP_WAIT" : "Data Ready to GO bro. . .",
-"MODE_NO_ADS_TRUE" : "PROVERSION ACTIVATED ",
+"Json_popup_Wait" : "Data Ready to GO . . .Bro",
+"Mode_No_Ads_true" : "Proversion Activated",
 
 // mode iklan list
 // PENGATURAN IKLAN
-// ADMOB 			= backup unity backup startapp
-// FAN					= backup unity backup startapp
-// UNITY 				= backup startapp
-// IRONSOURCE 	= backup unity backup startapp
+// admob1 = backup startapp
+// admob2 = backup unity backup startapp
+// fan
+// unity = backup startapp
 
 "MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_UNITY" : false,
-"PENGATURAN_IKLAN_BANNER" : "ADMOB",
-"PENGATURAN_IKLAN_INTER" : "ADMOB",
-"INTER_COUNT" : 5,
-
-"IRONSOURCE_APPKEY" : "-",
+"PENGATURAN_IKLAN_banner" : "admob2",
+"PENGATURAN_IKLAN_inter" : "admob2",
+"INTER_COUNT" : 10,	
 
 "ADMOB_INTER" : "ca-app-pub-1601051311855262/3644084584",
 "ADMOB_BANNER" : "ca-app-pub-1601051311855262/3094733323",
-"ADMOB_OPENADS" : "ca-app-pub-3940256099942544/",
+"ADMOB_OPENADS" : "ca-app-pub-7530364106237448/",
 
-"FAN_INTER" : "YOUR_PLACEMENT_ID",
-"FAN_BANNER" : "YOUR_PLACEMENT_ID",
+"FAN_INTER" : "id fan",
+"FAN_BANNER" : "id fan",
 
 "UNITY_BANNER" : "banner",
 "UNITY_INTERSTITIAL" : "inter",
 "UNITY_GAME_ID" : "4114625",
 
-"STARTAPPID" : "207333353",
-"ENABLE_STRAP" : true,
-"ENABLE_STRAP_SPLAHSCREEN" : false,
+"startappid" : "207333353",
+"enable_strap" : true,
+"enable_strap_SplahScreen" : true,
 
 
 // Bantu Rating 5 bintang agar kami dapat terus memberikan informasi informasi terbaru
 // help give us a 5 star rating, so we keep the spirit of providing the latest updates
 // jika shre button true maka more button berubah fungsi menjadi share - more url hilang menjadi share
-"EXIT_POPUP_DIALOG" : "
-Bantu Rating 5 bintang agar kami dapat terus memberikan informasi informasi terbaru
-Selain itu, kamu juga dapat merequest lagu dengan meniggalkan komentar seetelah rating
-yuk rating sekarang
+"Exit_Popup_Dialog" : "
+yuk bantu rating bintang 5 aplikasi ini
+     
+agar kami lebih bersemangat untuk menambahkan fitur fitur baru :)
+     
+kamu  juga bisa request lagu apa yang dapat kami tambahkan di  komentar setelah melakukan rating loo",
+"Rate_Button" : "Rating 5 Sekarang",
+"Later_Button" : "Ratingnya nanti ajaa deh",
+"enable_Share_button" : true,
+"Share_TXT" : "
+wow wow wow aplikasi ini keren banget gaes
+
+lengkap kekinian
+
+aku udah nyobain, seriusan kamu perlu coba juga
+coba download aja klik link dibawah 
 
 ",
-"RATE_BUTTON" : "Rating Sekarang",
-"LATER_BUTTON" : "Rating Nanti",
-"ENABLE_SHARE_BUTTON" : true,
-"SHARE_TXT" : "
-Aplikasi yang aku udah download ini berfaedah banget, asik buat nemenin aktifitas hari ini - pas banget
+"More_Button" : "Bagikan Aplikasi ini ke teman via whatsapp",
+"Url_More_Apps" : "https://play.google.com/store/apps/details?id=com.package.name"
 
-cobain download juga.. klik link aja ya
-",
-"MORE_BUTTON" : "Bagikan Aplikasi Via Whatsapp",
-"URL_MORE_APPS" : "https://play.google.com/store/apps/details?id=com.package.name"
+}
+],"Mp3": [
 
-}],"Mp3": [
+{
+"name_mp3": "PKEMON DIMANA KAMU", "link_mp3": "PKEMON DIMANA KAMU.mp3"
+}
 
-  {    "name_mp3": "musik (9).ogg",    "link_mp3": "musik (9).ogg"  },
-  {    "name_mp3": "musik (8).ogg",    "link_mp3": "musik (8).ogg"  }
+],"Wallpaper": [
 
- ],"Wallpaper": [
-
- {    "image": "file:///android_asset/wallpaper (1).jpg"  },
- {    "image": "file:///android_asset/wallpaper (6).jpg"  }
+{
+"image": "file:///android_asset/dj.jpg"
+}
 
 ]}
